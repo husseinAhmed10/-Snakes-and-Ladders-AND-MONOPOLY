@@ -1,0 +1,2 @@
+#  Snakes and Ladders AND MONOPOLY
+ Using C++ CMUgraphics library we created a board game using OOP procedures where there are two main game modes. Firstly design mode where the user design the board adding the ladders or snakes or cards or cities where ever he/she wants , and a play mode where four players compete to reach the last cell on the board.  This was a class project. Language:C++ Course: Programming Techniques(OOP) 
